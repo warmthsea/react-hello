@@ -1,0 +1,8 @@
+.red-btn{
+	background-color: red;
+	color: white;
+}
+.red-hr{
+	color: red;
+	border-bottom: 5px solid #FF0000;
+}
